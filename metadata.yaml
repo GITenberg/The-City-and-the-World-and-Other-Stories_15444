@@ -1,0 +1,34 @@
+_repo: The-City-and-the-World-and-Other-Stories_15444
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15444-h/images/cover-lg.jpg
+creator:
+  author:
+    agent_name: Kelley, Francis Clement, Bp.
+    alias: Muredach, Myles
+    birthdate: 1870
+    deathdate: 1948
+    gutenberg_agent_id: '6060'
+    url: http://www.gutenberg.org/2009/agents/6060
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Kelley
+description: ''
+gutenberg_issued: '2005-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+tableOfContents: The City and the World -- The Flaming Cross -- The Vicar-General
+  -- The Resurrection of Alta -- The Man with a Dead Soul -- The Autobiography of
+  a Dollar -- Le Braillard de la Magdeleine -- The Legend of Deschamps -- The Thousand
+  Dollar Note -- The Occasion -- The Yankee Tramp -- How Father Tom Connolly Began
+  to Be a Saint -- The Unbroken Seal -- Mac of the Island.
+title: The City and the World and Other Stories
+url: http://www.gutenberg.org/ebooks/15444
