@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6060
     wikipedia: http://en.wikipedia.org/wiki/Francis_Kelley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15444#The-City-and-the-World-and-Other-Stories
 gutenberg_issued: '2005-03-23'
 gutenberg_type: Text
 identifiers:
